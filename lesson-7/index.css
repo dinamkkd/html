@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(238, 228, 228);
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+section div{
+    background-color: aqua;
+    width: 100%;
+    color: blueviolet;
+
+}
